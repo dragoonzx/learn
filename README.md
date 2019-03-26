@@ -1,5 +1,5 @@
 # learn
-Bunch of material for learning
+Bunch of materials for learning
 
 --BEGIN HERE--
 
