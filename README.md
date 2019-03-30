@@ -5,6 +5,8 @@ Bunch of materials for learning
 
 http://jsonplaceholder.typicode.com/ FAKE ONLINE REST API
 
+faker js : fake data
+
 https://habr.com/ru/post/306716/ TO HACKATHON TRAINING (ABOUT ALL TO FRONTEND DEVELOPER)
 
 https://reactjs.org/docs/events.html#supported-events REACT EVENTS
